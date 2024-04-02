@@ -1,6 +1,6 @@
 * { box-sizing: border-box; }
 
-.member{
+.brown{
   background: rgb(191, 140, 82);
   color: rgb(61, 40, 26);
   border: 10px solid rgb(61, 40, 26);
@@ -13,5 +13,4 @@
   border-top-right-radius: 15px;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
-
 }
